@@ -1,0 +1,42 @@
+CITY DIAGNOSTICS — LABORATORY REPORT
+(Sample document for demonstration. Not a real medical record.)
+
+Patient: A. Sharma          Age/Sex: 34 / F
+Collected: 2026-08-28       Reported: 2026-08-29
+Referring clinician: Dr. R. Thapa
+Requested panel: Complete blood count, iron studies, lipid profile, thyroid
+
+COMPLETE BLOOD COUNT
+  Haemoglobin            9.1 g/dL        (ref 12.0 - 15.5)   LOW
+  Haematocrit            29.4 %          (ref 36 - 46)       LOW
+  Mean cell volume       72 fL           (ref 80 - 100)      LOW
+  Red cell count         4.1 x10^12/L    (ref 3.9 - 5.0)
+  White cell count       6.8 x10^9/L     (ref 4.0 - 11.0)
+  Platelets              412 x10^9/L     (ref 150 - 400)     HIGH
+
+IRON STUDIES
+  Serum ferritin         6 ng/mL         (ref 15 - 200)      LOW
+  Serum iron             38 mcg/dL       (ref 60 - 170)      LOW
+  Transferrin saturation 9 %             (ref 20 - 50)       LOW
+
+LIPID PROFILE
+  Total cholesterol      206 mg/dL       (ref < 200)         HIGH
+  LDL cholesterol        131 mg/dL       (ref < 100)         HIGH
+  HDL cholesterol        54 mg/dL        (ref > 50)
+  Triglycerides          142 mg/dL       (ref < 150)
+
+THYROID
+  TSH                    2.4 mIU/L       (ref 0.4 - 4.0)
+
+VITALS AT COLLECTION
+  Blood pressure 118/76 mmHg    Pulse 92 bpm    Temperature 36.8 C
+
+CLINICAL NOTES
+Patient reports six weeks of fatigue, breathlessness on climbing stairs, and
+occasional light-headedness on standing. Heavy menstrual bleeding noted. No chest
+pain. No recent travel. Vegetarian diet. Not currently taking any supplements.
+No known drug allergies.
+
+COMMENTS
+Microcytic picture with depleted ferritin. Mild reactive thrombocytosis. Lipids
+mildly raised. Correlate clinically and consider repeat count after treatment.

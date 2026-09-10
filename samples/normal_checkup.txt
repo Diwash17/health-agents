@@ -1,0 +1,47 @@
+WELLNESS CLINIC — ANNUAL HEALTH CHECK
+(Sample document for demonstration. Not a real medical record.)
+
+Patient: B. Karki             Age/Sex: 29 / M
+Collected: 2026-09-02         Reported: 2026-09-03
+Referring clinician: Dr. S. Gurung
+Reason for visit: Routine annual screening. No complaints.
+
+COMPLETE BLOOD COUNT
+  Haemoglobin            15.1 g/dL       (ref 13.5 - 17.5)
+  Haematocrit            44.2 %          (ref 41 - 50)
+  Mean cell volume       88 fL           (ref 80 - 100)
+  White cell count       6.1 x10^9/L     (ref 4.0 - 11.0)
+  Platelets              244 x10^9/L     (ref 150 - 400)
+
+METABOLIC PANEL
+  Fasting glucose        88 mg/dL        (ref 70 - 99)
+  HbA1c                  5.2 %           (ref < 5.7)
+  Creatinine             0.9 mg/dL       (ref 0.7 - 1.3)
+  eGFR                   102 mL/min      (ref > 90)
+  Sodium                 140 mmol/L      (ref 135 - 145)
+  Potassium              4.2 mmol/L      (ref 3.5 - 5.1)
+
+LIPID PROFILE
+  Total cholesterol      172 mg/dL       (ref < 200)
+  LDL cholesterol        94 mg/dL        (ref < 100)
+  HDL cholesterol        58 mg/dL        (ref > 40)
+  Triglycerides          98 mg/dL        (ref < 150)
+
+LIVER PANEL
+  ALT                    24 U/L          (ref 7 - 55)
+  AST                    21 U/L          (ref 8 - 48)
+  Bilirubin, total       0.7 mg/dL       (ref 0.1 - 1.2)
+
+THYROID
+  TSH                    1.9 mIU/L       (ref 0.4 - 4.0)
+
+VITALS
+  Blood pressure 116/74 mmHg    Pulse 64 bpm    BMI 23.1    Temperature 36.6 C
+
+CLINICAL NOTES
+Asymptomatic. Non-smoker, no alcohol. Exercises three times weekly. No regular
+medications. No known allergies. Family history of type 2 diabetes (father).
+
+COMMENTS
+All measured parameters within reference limits. No abnormality detected. Routine
+re-screening in twelve months. Given family history, continue current lifestyle.

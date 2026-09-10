@@ -1,0 +1,56 @@
+CENTRAL HOSPITAL — DISCHARGE SUMMARY
+(Sample document for demonstration. Not a real medical record.)
+
+Patient: R. Maharjan        Age/Sex: 61 / M        Ward: Cardiology, bed 14
+Admitted: 2026-08-19        Discharged: 2026-08-24        Length of stay: 5 days
+Consultant: Dr. P. Rai
+
+REASON FOR ADMISSION
+Presented to emergency at 03:10 with two hours of central chest tightness radiating
+to the left arm, associated with sweating and nausea. Symptoms began at rest.
+
+HISTORY
+Known hypertension for nine years, managed with amlodipine. Type 2 diabetes for four
+years on metformin, with variable adherence reported by the patient's family. Ex-smoker,
+stopped roughly six years ago after approximately thirty pack-years. Father died of
+myocardial infarction at 58. No previous cardiac admissions. Allergic to aspirin,
+producing urticaria — documented on a prior outpatient visit.
+
+COURSE IN HOSPITAL
+Initial troponin was raised and the electrocardiogram showed changes in the inferior
+leads. The patient was taken for coronary angiography on the morning of admission,
+which demonstrated a significant lesion in the right coronary artery. A drug-eluting
+stent was placed successfully with no immediate complications.
+
+The patient was monitored on telemetry for forty-eight hours. He had one brief episode
+of chest discomfort on day two which settled without intervention and was not associated
+with further electrocardiogram changes. Blood pressure ran higher than target for the
+first three days and the antihypertensive dose was increased. Glycaemic control was poor
+on admission and the diabetes team reviewed him on day three. He mobilised independently
+by day four and was seen by the cardiac rehabilitation physiotherapist.
+
+Renal function remained stable throughout. There was no bleeding at the access site.
+
+MEDICATIONS ON DISCHARGE
+  Clopidogrel 75 mg once daily — continue twelve months, do not stop without advice
+  Atorvastatin 80 mg at night
+  Bisoprolol 2.5 mg once daily — newly started
+  Ramipril 2.5 mg once daily — newly started
+  Amlodipine 10 mg once daily — dose increased from 5 mg
+  Metformin 1 g twice daily — unchanged
+  Glyceryl trinitrate spray as required for chest pain
+
+Note: aspirin was NOT prescribed owing to the documented allergy. Clopidogrel is being
+used as single antiplatelet therapy instead. This must not be substituted.
+
+FOLLOW-UP
+Cardiology outpatient clinic in six weeks. Diabetes clinic in four weeks for review of
+glycaemic control. Practice nurse for blood pressure check in two weeks. Cardiac
+rehabilitation programme — the patient has been referred and will be contacted directly.
+
+ADVICE GIVEN
+Discussed return to driving, which he may resume after one week provided he remains
+symptom-free. Advised to avoid heavy lifting for two weeks. Instructed to call emergency
+services if chest pain recurs and is not relieved by two doses of the spray. Dietary and
+smoking-cessation advice reinforced. The patient's daughter was present for the
+discharge conversation.
